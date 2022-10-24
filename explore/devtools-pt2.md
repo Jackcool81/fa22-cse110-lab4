@@ -1,0 +1,2 @@
+1. the bug is the numbers are not being converting into the correct type to preform math on, since they are all strings
+2. The easiest way to fix this it to just convert both num1 and num2 into integers so that they can be added together, I used the parse int function
